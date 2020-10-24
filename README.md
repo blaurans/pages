@@ -1,5 +1,4 @@
 # Dalbade
-|---|---|---|
 |DS1813|192.168.1.11|https://dalbade.laurans.org:45002/|
 |DS212|192.168.1.13|ds212.laurans.org|
 |qnap|192.168.1.14|https://dalbade.laurans.org:8082/cgi-bin/|
