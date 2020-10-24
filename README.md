@@ -1,5 +1,5 @@
 # Dalbade
-| Syntax | Description | site |
+| Syntax      | Description | site        |
 | ----------- | ----------- | ----------- |
 |DS1813|192.168.1.11|https://dalbade.laurans.org:45002/|
 |DS212|192.168.1.13|https://ds212.laurans.org|
